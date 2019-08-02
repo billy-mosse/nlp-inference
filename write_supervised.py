@@ -3,6 +3,7 @@ import argparse
 import json
 import csv
 
+#Convierte frases y labels de json a txt
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('sentences')
