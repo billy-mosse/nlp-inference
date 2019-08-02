@@ -1,6 +1,7 @@
 import math
 import numpy as np
 
+#Entrena el modelo pero tambien lo testea con dev.txt
 def main():
 	import fasttext
 
